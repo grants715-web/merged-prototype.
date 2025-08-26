@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Merged Prototype + Demo</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f4f4f4; }
+    header { background: #222; color: white; padding: 1rem; text-align: center; }
+    section { padding: 2rem; max-width: 1200px; margin: auto; background: white; margin-bottom: 2rem; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); }
+    iframe { width: 100%; height: 700px; border: none; border-radius: 8px; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Merged Interactive Prototype</h1>
+</header>
+
+<section id="mockup">
+  <h2>Mock-Up</h2>
+  <!-- Replace URL below with your mock-up link -->
+  <iframe src=https://www.genspark.ai/api/page_private?id=tulezfxg
+</section>
+
+<section id="demo">
+  <h2>Live Demo</h2>
+  <!-- Replace URL below with your live demo link -->
+  <iframe src=https://www.genspark.ai/api/page_private?id=dysgamek
+</section>
+
+</body>
+</html>
